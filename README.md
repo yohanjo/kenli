@@ -1,6 +1,6 @@
 # Knowledge-Enhanced Evidence Retrieval for Counterevidence Generation
 
-Data and source code will be uploaded by Nov 2021.
+Data and source code will be uploaded soon.
 
 ## BibTeX
 ```
